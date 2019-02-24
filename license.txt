@@ -177,3 +177,6 @@
 
    11.Testing again. 
 	END OF TERMS AND CONDITIONS
+
+
+12.automating
